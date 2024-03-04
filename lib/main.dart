@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.blue[200],
         centerTitle: true,
-        title: Text('Home Mehedi'),
+        title: Text('Home Mehedi v2'),
       ),
       body: SingleChildScrollView(
         child: Padding(
